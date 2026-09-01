@@ -1,0 +1,163 @@
+{"kind":"deck","id":"pr/ej622x","name":"Deck"}
+{"kind":"layout","layoutId":"40e4f850-167c-4c2a-ae0b-34274aa93dbb","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"351e7416-d7ff-48ff-9e6b-1c5e43bf3811","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/zhp51x","slide":1,"title":"CONTENT PLAN","textShapes":4}
+{"kind":"shape","id":"sh/tcfah0ru","slide":1,"name":"cover-panel","bbox":[0,0,542,720]}
+{"kind":"textbox","id":"sh/8b69ova9","slide":1,"name":"eyebrow","text":"CONTENT PLAN","textPreview":"CONTENT PLAN","textChars":12,"textLines":1,"bbox":[64,68,340,24]}
+{"kind":"textbox","id":"sh/vexsja9k","slide":1,"name":"deck-title","text":"Restaurant","textPreview":"Restaurant","textChars":10,"textLines":1,"bbox":[64,204,430,86]}
+{"kind":"shape","id":"sh/udorq5sf","slide":1,"name":"rule","bbox":[64,314,90,4]}
+{"kind":"textbox","id":"sh/hgzalkrq","slide":1,"name":"cover-subtitle","text":"Eine klare Bildsprache.\nEin planbarer Auftritt.\nContent, der Appetit macht.","textPreview":"Eine klare Bildsprache. | Ein planbarer Auftritt. | Content, der Appetit macht.","textChars":75,"textLines":3,"bbox":[64,350,410,142]}
+{"kind":"textbox","id":"sh/gf6tsfa5","slide":1,"name":"text","text":"FOTOGRAFIE  /  VIDEO  /  HYBRID","textPreview":"FOTOGRAFIE  /  VIDEO  /  HYBRID","textChars":31,"textLines":1,"bbox":[64,615,390,22]}
+{"kind":"image","id":"im/j2t0buxk","slide":1,"name":"","alt":"Editorial restaurant contact sheet","bbox":[542,0,738,720]}
+{"kind":"notes","id":"nt/zhp51x","slide":1,"text":"[Sources]\n- Brand reference: https://zauberwald-visuals.de/work (accessed 2026-08-20)\n- Restaurant imagery: AI-generated concept photography by OpenAI image generation for this presentation, 2026-08-20.\n[/Sources]"}
+{"kind":"slide","id":"sl/4kyhq8","slide":2,"title":"01  /  DER ANSATZ","textShapes":7}
+{"kind":"textbox","id":"sh/9gj29g7y","slide":2,"name":"text","text":"01  /  DER ANSATZ","textPreview":"01  /  DER ANSATZ","textChars":17,"textLines":1,"bbox":[64,50,300,22]}
+{"kind":"textbox","id":"sh/mdsje1o7","slide":2,"name":"text","text":"Der Restaurantbesuch beginnt\nvor der Reservierung.","textPreview":"Der Restaurantbesuch beginnt | vor der Reservierung.","textChars":50,"textLines":2,"bbox":[64,108,630,176]}
+{"kind":"textbox","id":"sh/7e1k76ps","slide":2,"name":"text","text":"Gäste entscheiden mit den Augen: über Atmosphäre, Handschrift und das Gefühl, das sie erwartet.","textPreview":"Gäste entscheiden mit den Augen: über Atmosphäre, Handschrift und das Gefühl, das sie erwartet.","textChars":95,"textLines":1,"bbox":[64,292,520,72]}
+{"kind":"shape","id":"sh/wju1kv69","slide":2,"name":"rule","bbox":[64,394,72,3]}
+{"kind":"textbox","id":"sh/hk32dgnu","slide":2,"name":"text","text":"Die Aufgabe des Contents","textPreview":"Die Aufgabe des Contents","textChars":24,"textLines":1,"bbox":[64,424,370,30]}
+{"kind":"textbox","id":"sh/uhcjilo3","slide":2,"name":"text","text":"Nicht einfach zeigen, was serviert wird - sondern spürbar machen, warum man genau hier einen Abend verbringen möchte.","textPreview":"Nicht einfach zeigen, was serviert wird - sondern spürbar machen, warum man genau hier einen Abend verbringen möchte.","textChars":117,"textLines":1,"bbox":[64,474,510,96]}
+{"kind":"textbox","id":"sh/cnq18r65","slide":2,"name":"brand-footer","text":"ZAUBERWALD / VISUALS","textPreview":"ZAUBERWALD / VISUALS","textChars":20,"textLines":1,"bbox":[64,674,280,18]}
+{"kind":"textbox","id":"sh/dozi1w7q","slide":2,"name":"page-number","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1170,674,46,18]}
+{"kind":"image","id":"im/idwn2lon","slide":2,"name":"","alt":"Warm, intimate restaurant interior","bbox":[706,0,574,648]}
+{"kind":"notes","id":"nt/4kyhq8","slide":2,"text":"[Sources]\n- Brand reference: https://zauberwald-visuals.de/work (accessed 2026-08-20)\n- Restaurant imagery: AI-generated concept photography by OpenAI image generation for this presentation, 2026-08-20.\n[/Sources]"}
+{"kind":"slide","id":"sl/arnolf","slide":3,"title":"02  /  DIE BILDWELT","textShapes":8}
+{"kind":"textbox","id":"sh/8b29g369","slide":3,"name":"text","text":"02  /  DIE BILDWELT","textPreview":"02  /  DIE BILDWELT","textChars":19,"textLines":1,"bbox":[64,50,300,22]}
+{"kind":"textbox","id":"sh/7atsnypo","slide":3,"name":"text","text":"Eine visuelle Handschrift,\ndie sofort wiedererkennbar ist.","textPreview":"Eine visuelle Handschrift, | die sofort wiedererkennbar ist.","textChars":58,"textLines":2,"bbox":[64,102,610,164]}
+{"kind":"textbox","id":"sh/mp0redo3","slide":3,"name":"text","text":"Echt. Nah. Hochwertig. Mit tiefen Schatten, warmem Licht und Details, die den Charakter des Hauses tragen.","textPreview":"Echt. Nah. Hochwertig. Mit tiefen Schatten, warmem Licht und Details, die den Charakter des Hauses tragen.","textChars":106,"textLines":1,"bbox":[64,270,500,64]}
+{"kind":"textbox","id":"sh/udkridof","slide":3,"name":"text","text":"SIGNATURE DISHES","textPreview":"SIGNATURE DISHES","textChars":16,"textLines":1,"bbox":[64,620,240,18]}
+{"kind":"textbox","id":"sh/5kvaxsn2","slide":3,"name":"text","text":"RITUALE & DETAILS","textPreview":"RITUALE & DETAILS","textChars":17,"textLines":1,"bbox":[438,620,240,18]}
+{"kind":"textbox","id":"sh/4jmton6h","slide":3,"name":"text","text":"TEXTUR & HANDWERK","textPreview":"TEXTUR & HANDWERK","textChars":17,"textLines":1,"bbox":[812,620,260,18]}
+{"kind":"textbox","id":"sh/ilo361on","slide":3,"name":"brand-footer","text":"ZAUBERWALD / VISUALS","textPreview":"ZAUBERWALD / VISUALS","textChars":20,"textLines":1,"bbox":[64,674,280,18]}
+{"kind":"textbox","id":"sh/36x4z6p8","slide":3,"name":"page-number","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1170,674,46,18]}
+{"kind":"image","id":"im/k7ex83id","slide":3,"name":"","alt":"Signature dish close-up","bbox":[64,382,352,220]}
+{"kind":"image","id":"im/l8ne18zy","slide":3,"name":"","alt":"Cocktail detail in warm light","bbox":[438,344,352,258]}
+{"kind":"image","id":"im/y5wf6t07","slide":3,"name":"","alt":"Signature dessert close-up","bbox":[812,304,404,298]}
+{"kind":"notes","id":"nt/arnolf","slide":3,"text":"[Sources]\n- Brand reference: https://zauberwald-visuals.de/work (accessed 2026-08-20)\n- Restaurant imagery: AI-generated concept photography by OpenAI image generation for this presentation, 2026-08-20.\n[/Sources]"}
+{"kind":"slide","id":"sl/3aremq","slide":4,"title":"03  /  FOTOGRAFIE","textShapes":17}
+{"kind":"textbox","id":"sh/snutgzq5","slide":4,"name":"text","text":"03  /  FOTOGRAFIE","textPreview":"03  /  FOTOGRAFIE","textChars":17,"textLines":1,"bbox":[624,50,300,22]}
+{"kind":"textbox","id":"sh/to3u94rq","slide":4,"name":"text","text":"Ein Shooting.\nContent für viele Anlässe.","textPreview":"Ein Shooting. | Content für viele Anlässe.","textChars":40,"textLines":2,"bbox":[624,112,560,160]}
+{"kind":"textbox","id":"sh/upcbi98b","slide":4,"name":"text","text":"Fotografie schafft eine starke, flexible Bildbibliothek für Website, Social Media, Presse und Reservierungsplattformen.","textPreview":"Fotografie schafft eine starke, flexible Bildbibliothek für Website, Social Media, Presse und Reservierungsplattformen.","textChars":119,"textLines":1,"bbox":[624,282,520,70]}
+{"kind":"textbox","id":"sh/fqlcbe9g","slide":4,"name":"text","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[624,370,38,22]}
+{"kind":"textbox","id":"sh/grutkjq1","slide":4,"name":"text","text":"Gerichte","textPreview":"Gerichte","textChars":8,"textLines":1,"bbox":[682,368,140,28]}
+{"kind":"textbox","id":"sh/hsnud4rm","slide":4,"name":"text","text":"Hero-Motive, Karte, saisonale Specials","textPreview":"Hero-Motive, Karte, saisonale Specials","textChars":38,"textLines":1,"bbox":[836,372,350,24]}
+{"kind":"shape","id":"sh/2twbm987","slide":4,"name":"rule","bbox":[624,412,560,1]}
+{"kind":"textbox","id":"sh/3u5cfe9s","slide":4,"name":"text","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[624,430,38,22]}
+{"kind":"textbox","id":"sh/nexwbe5s","slide":4,"name":"text","text":"Raum","textPreview":"Raum","textChars":4,"textLines":1,"bbox":[682,428,140,28]}
+{"kind":"textbox","id":"sh/mdov2947","slide":4,"name":"text","text":"Interieur, Terrasse, Lichtstimmungen","textPreview":"Interieur, Terrasse, Lichtstimmungen","textChars":36,"textLines":1,"bbox":[836,432,350,24]}
+{"kind":"shape","id":"sh/9gfedony","slide":4,"name":"rule","bbox":[624,472,560,1]}
+{"kind":"textbox","id":"sh/of6d4jmd","slide":4,"name":"text","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[624,490,38,22]}
+{"kind":"textbox","id":"sh/zaxw7u5w","slide":4,"name":"text","text":"Menschen","textPreview":"Menschen","textChars":8,"textLines":1,"bbox":[682,488,140,28]}
+{"kind":"textbox","id":"sh/e94vyp4b","slide":4,"name":"text","text":"Küche, Service, echte Begegnungen","textPreview":"Küche, Service, echte Begegnungen","textChars":33,"textLines":1,"bbox":[836,492,350,24]}
+{"kind":"shape","id":"sh/1cfe94n2","slide":4,"name":"rule","bbox":[624,532,560,1]}
+{"kind":"textbox","id":"sh/0b6d0zmh","slide":4,"name":"text","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[624,550,38,22]}
+{"kind":"textbox","id":"sh/j6hwjy50","slide":4,"name":"text","text":"Details","textPreview":"Details","textChars":7,"textLines":1,"bbox":[682,548,140,28]}
+{"kind":"textbox","id":"sh/y58vat4f","slide":4,"name":"text","text":"Zutaten, Handgriffe, Signature-Rituale","textPreview":"Zutaten, Handgriffe, Signature-Rituale","textChars":38,"textLines":1,"bbox":[836,552,350,24]}
+{"kind":"shape","id":"sh/u1czixon","slide":4,"name":"rule","bbox":[624,592,560,1]}
+{"kind":"textbox","id":"sh/v2lgb2p8","slide":4,"name":"brand-footer","text":"ZAUBERWALD / VISUALS","textPreview":"ZAUBERWALD / VISUALS","textChars":20,"textLines":1,"bbox":[64,674,280,18]}
+{"kind":"textbox","id":"sh/g3uhk76t","slide":4,"name":"page-number","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1170,674,46,18]}
+{"kind":"image","id":"im/atgb25g3","slide":4,"name":"","alt":"Guests sharing plates at the table","bbox":[0,0,560,720]}
+{"kind":"notes","id":"nt/3aremq","slide":4,"text":"[Sources]\n- Brand reference: https://zauberwald-visuals.de/work (accessed 2026-08-20)\n- Restaurant imagery: AI-generated concept photography by OpenAI image generation for this presentation, 2026-08-20.\n[/Sources]"}
+{"kind":"slide","id":"sl/j0tkob","slide":5,"title":"04  /  VIDEO","textShapes":9}
+{"kind":"textbox","id":"sh/o7udsvu1","slide":5,"name":"text","text":"04  /  VIDEO","textPreview":"04  /  VIDEO","textChars":12,"textLines":1,"bbox":[64,50,300,22]}
+{"kind":"textbox","id":"sh/n6lwjqdw","slide":5,"name":"text","text":"Bewegung macht das Erlebnis spürbar.","textPreview":"Bewegung macht das Erlebnis spürbar.","textChars":36,"textLines":1,"bbox":[64,104,720,110]}
+{"kind":"textbox","id":"sh/25svqlcb","slide":5,"name":"text","text":"Dampf. Handgriffe. Einschenken. Der erste Schnitt. Kurze Filme übersetzen Atmosphäre in Vorfreude.","textPreview":"Dampf. Handgriffe. Einschenken. Der erste Schnitt. Kurze Filme übersetzen Atmosphäre in Vorfreude.","textChars":98,"textLines":1,"bbox":[64,222,610,56]}
+{"kind":"textbox","id":"sh/g3adovu5","slide":5,"name":"text","text":"HERO REEL","textPreview":"HERO REEL","textChars":9,"textLines":1,"bbox":[760,306,250,26]}
+{"kind":"textbox","id":"sh/f21wfqdk","slide":5,"name":"text","text":"15-30 Sekunden\nDer gesamte Abend als emotionaler Kurzfilm.","textPreview":"15-30 Sekunden | Der gesamte Abend als emotionaler Kurzfilm.","textChars":58,"textLines":2,"bbox":[760,348,390,70]}
+{"kind":"shape","id":"sh/e1svmlcz","slide":5,"name":"rule","bbox":[760,440,390,1]}
+{"kind":"textbox","id":"sh/t0jedgve","slide":5,"name":"text","text":"PROCESS","textPreview":"PROCESS","textChars":7,"textLines":1,"bbox":[760,468,250,26]}
+{"kind":"textbox","id":"sh/szadkbe9","slide":5,"name":"text","text":"Vom Produkt bis zum Teller\nEin Ablauf, ein Handwerk, eine Geschichte.","textPreview":"Vom Produkt bis zum Teller | Ein Ablauf, ein Handwerk, eine Geschichte.","textChars":69,"textLines":2,"bbox":[760,510,390,70]}
+{"kind":"textbox","id":"sh/y58vmxcn","slide":5,"name":"brand-footer","text":"ZAUBERWALD / VISUALS","textPreview":"ZAUBERWALD / VISUALS","textChars":20,"textLines":1,"bbox":[64,674,280,18]}
+{"kind":"textbox","id":"sh/z6hcf2t8","slide":5,"name":"page-number","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1170,674,46,18]}
+{"kind":"image","id":"im/sbq9obmp","slide":5,"name":"","alt":"Chef plating a dish at the pass","bbox":[64,300,640,320]}
+{"kind":"notes","id":"nt/j0tkob","slide":5,"text":"[Sources]\n- Brand reference: https://zauberwald-visuals.de/work (accessed 2026-08-20)\n- Restaurant imagery: AI-generated concept photography by OpenAI image generation for this presentation, 2026-08-20.\n[/Sources]"}
+{"kind":"slide","id":"sl/gihpc2","slide":6,"title":"05  /  HYBRID","textShapes":9}
+{"kind":"textbox","id":"sh/dgritsvi","slide":6,"name":"text","text":"05  /  HYBRID","textPreview":"05  /  HYBRID","textChars":13,"textLines":1,"bbox":[64,50,300,22]}
+{"kind":"textbox","id":"sh/qdgjydw7","slide":6,"name":"text","text":"Ein Produktionstag.\nEin roter Faden in Foto und Film.","textPreview":"Ein Produktionstag. | Ein roter Faden in Foto und Film.","textChars":53,"textLines":2,"bbox":[64,104,660,160]}
+{"kind":"textbox","id":"sh/0ji14ne9","slide":6,"name":"text","text":"Das Hybrid-Paket nutzt dieselben Sets, Abläufe und Lichtstimmungen. So entsteht mehr Material - ohne dass sich das Restaurant zweimal auf eine Produktion einstellen muss.","textPreview":"Das Hybrid-Paket nutzt dieselben Sets, Abläufe und Lichtstimmungen. So entsteht mehr Material - ohne dass sich das Restaurant zweimal auf...","textChars":170,"textLines":1,"bbox":[64,274,600,94]}
+{"kind":"shape","id":"sh/1krixsvu","slide":6,"name":"rule","bbox":[64,406,540,1]}
+{"kind":"textbox","id":"sh/eh0j2dw3","slide":6,"name":"text","text":"FOTO","textPreview":"FOTO","textChars":4,"textLines":1,"bbox":[64,440,110,28]}
+{"kind":"textbox","id":"sh/zi90vido","slide":6,"name":"text","text":"Starke Einzelmotive für Feed, Website und PR.","textPreview":"Starke Einzelmotive für Feed, Website und PR.","textChars":45,"textLines":1,"bbox":[190,442,420,54]}
+{"kind":"textbox","id":"sh/on2187u5","slide":6,"name":"text","text":"VIDEO","textPreview":"VIDEO","textChars":5,"textLines":1,"bbox":[64,530,110,28]}
+{"kind":"textbox","id":"sh/9ob21cvq","slide":6,"name":"text","text":"Dynamische Reels und Sequenzen für Reichweite und Nähe.","textPreview":"Dynamische Reels und Sequenzen für Reichweite und Nähe.","textChars":55,"textLines":1,"bbox":[190,532,420,54]}
+{"kind":"textbox","id":"sh/9w3ad0nu","slide":6,"name":"brand-footer","text":"ZAUBERWALD / VISUALS","textPreview":"ZAUBERWALD / VISUALS","textChars":20,"textLines":1,"bbox":[64,674,280,18]}
+{"kind":"textbox","id":"sh/ovu9kvmp","slide":6,"name":"page-number","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1170,674,46,18]}
+{"kind":"image","id":"im/2dkn6xk3","slide":6,"name":"","alt":"Candid service moment with guests","bbox":[758,0,522,720]}
+{"kind":"notes","id":"nt/gihpc2","slide":6,"text":"[Sources]\n- Brand reference: https://zauberwald-visuals.de/work (accessed 2026-08-20)\n- Restaurant imagery: AI-generated concept photography by OpenAI image generation for this presentation, 2026-08-20.\n[/Sources]"}
+{"kind":"slide","id":"sl/6jed5o","slide":7,"title":"06  /  CONTENT-SÄULEN","textShapes":16}
+{"kind":"textbox","id":"sh/xcvel4fq","slide":7,"name":"text","text":"06  /  CONTENT-SÄULEN","textPreview":"06  /  CONTENT-SÄULEN","textChars":21,"textLines":1,"bbox":[64,50,340,22]}
+{"kind":"textbox","id":"sh/a94fapwf","slide":7,"name":"text","text":"Vier Perspektiven erzählen\ndie ganze Geschichte des Hauses.","textPreview":"Vier Perspektiven erzählen | die ganze Geschichte des Hauses.","textChars":59,"textLines":2,"bbox":[64,104,620,104]}
+{"kind":"textbox","id":"sh/8n2x8ze9","slide":7,"name":"text","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[64,286,42,22]}
+{"kind":"textbox","id":"sh/98behkfu","slide":7,"name":"text","text":"KÜCHE","textPreview":"KÜCHE","textChars":5,"textLines":1,"bbox":[126,281,190,30]}
+{"kind":"textbox","id":"sh/mlkf6pw3","slide":7,"name":"text","text":"Produkte, Gerichte, saisonale Karte","textPreview":"Produkte, Gerichte, saisonale Karte","textChars":35,"textLines":1,"bbox":[340,286,390,28]}
+{"kind":"shape","id":"sh/nmtwfuxo","slide":7,"name":"rule","bbox":[64,332,666,1]}
+{"kind":"textbox","id":"sh/0j2x4fed","slide":7,"name":"text","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[64,364,42,22]}
+{"kind":"textbox","id":"sh/lkbedkfy","slide":7,"name":"text","text":"MENSCHEN","textPreview":"MENSCHEN","textChars":8,"textLines":1,"bbox":[126,359,190,30]}
+{"kind":"textbox","id":"sh/xwbedo3u","slide":7,"name":"text","text":"Chef, Team, Gastgeber-Momente","textPreview":"Chef, Team, Gastgeber-Momente","textChars":29,"textLines":1,"bbox":[340,364,390,28]}
+{"kind":"shape","id":"sh/wv2xkjmp","slide":7,"name":"rule","bbox":[64,410,666,1]}
+{"kind":"textbox","id":"sh/vutwbyl4","slide":7,"name":"text","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[64,442,42,22]}
+{"kind":"textbox","id":"sh/atkfit4j","slide":7,"name":"text","text":"ATMOSPHÄRE","textPreview":"ATMOSPHÄRE","textChars":10,"textLines":1,"bbox":[126,437,190,30]}
+{"kind":"textbox","id":"sh/9sbe9o3y","slide":7,"name":"text","text":"Raum, Licht, Abendstimmung","textPreview":"Raum, Licht, Abendstimmung","textChars":26,"textLines":1,"bbox":[340,442,390,28]}
+{"kind":"shape","id":"sh/8r2xgjmd","slide":7,"name":"rule","bbox":[64,488,666,1]}
+{"kind":"textbox","id":"sh/nqtw7els","slide":7,"name":"text","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[64,520,42,22]}
+{"kind":"textbox","id":"sh/mp0ve947","slide":7,"name":"text","text":"HALTUNG","textPreview":"HALTUNG","textChars":7,"textLines":1,"bbox":[126,515,190,30]}
+{"kind":"textbox","id":"sh/lore5432","slide":7,"name":"text","text":"Herkunft, Handwerk, Philosophie","textPreview":"Herkunft, Handwerk, Philosophie","textChars":31,"textLines":1,"bbox":[340,520,390,28]}
+{"kind":"shape","id":"sh/0nidczmh","slide":7,"name":"rule","bbox":[64,566,666,1]}
+{"kind":"textbox","id":"sh/c7mxsjud","slide":7,"name":"brand-footer","text":"ZAUBERWALD / VISUALS","textPreview":"ZAUBERWALD / VISUALS","textChars":20,"textLines":1,"bbox":[64,674,280,18]}
+{"kind":"textbox","id":"sh/d8ve14bi","slide":7,"name":"page-number","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1170,674,46,18]}
+{"kind":"image","id":"im/idgfitgr","slide":7,"name":"","alt":"Fresh restaurant ingredients in warm light","bbox":[816,0,464,720]}
+{"kind":"notes","id":"nt/6jed5o","slide":7,"text":"[Sources]\n- Brand reference: https://zauberwald-visuals.de/work (accessed 2026-08-20)\n- Restaurant imagery: AI-generated concept photography by OpenAI image generation for this presentation, 2026-08-20.\n[/Sources]"}
+{"kind":"slide","id":"sl/sldbuc","slide":8,"title":"07  /  BEISPIELHAFTER MONAT","textShapes":17}
+{"kind":"textbox","id":"sh/xovadcv6","slide":8,"name":"text","text":"07  /  BEISPIELHAFTER MONAT","textPreview":"07  /  BEISPIELHAFTER MONAT","textChars":27,"textLines":1,"bbox":[64,50,390,22]}
+{"kind":"textbox","id":"sh/alkr2xwf","slide":8,"name":"text","text":"Aus einem Shooting entsteht\nein planbarer Content-Rhythmus.","textPreview":"Aus einem Shooting entsteht | ein planbarer Content-Rhythmus.","textChars":59,"textLines":2,"bbox":[64,104,650,104]}
+{"kind":"shape","id":"sh/krm98ruh","slide":8,"name":"rule","bbox":[92,340,670,2]}
+{"kind":"shape","id":"sh/5svahwv2","slide":8,"name":"timeline-dot-1","bbox":[89,333,16,16]}
+{"kind":"textbox","id":"sh/ip4r6hwr","slide":8,"name":"text","text":"WOCHE 1","textPreview":"WOCHE 1","textChars":7,"textLines":1,"bbox":[64,380,160,22]}
+{"kind":"textbox","id":"sh/jqdsfmdw","slide":8,"name":"text","text":"Hero Reel","textPreview":"Hero Reel","textChars":9,"textLines":1,"bbox":[64,420,170,54]}
+{"kind":"textbox","id":"sh/0vi9wned","slide":8,"name":"text","text":"Atmosphäre & erste Emotion","textPreview":"Atmosphäre & erste Emotion","textChars":26,"textLines":1,"bbox":[64,500,170,58]}
+{"kind":"shape","id":"sh/lwrq5svy","slide":8,"name":"timeline-dot-2","bbox":[277,333,16,16]}
+{"kind":"textbox","id":"sh/lkbalkfa","slide":8,"name":"text","text":"WOCHE 2","textPreview":"WOCHE 2","textChars":7,"textLines":1,"bbox":[252,380,160,22]}
+{"kind":"textbox","id":"sh/kj2tsfyp","slide":8,"name":"text","text":"Signature Dish","textPreview":"Signature Dish","textChars":14,"textLines":1,"bbox":[252,420,170,54]}
+{"kind":"textbox","id":"sh/jitsjax4","slide":8,"name":"text","text":"Gericht + kurze Story","textPreview":"Gericht + kurze Story","textChars":21,"textLines":1,"bbox":[252,500,170,58]}
+{"kind":"shape","id":"sh/yhkbq5gj","slide":8,"name":"timeline-dot-3","bbox":[465,333,16,16]}
+{"kind":"textbox","id":"sh/tovap4f6","slide":8,"name":"text","text":"WOCHE 3","textPreview":"WOCHE 3","textChars":7,"textLines":1,"bbox":[440,380,160,22]}
+{"kind":"textbox","id":"sh/8nmtwzyl","slide":8,"name":"text","text":"Behind the Scenes","textPreview":"Behind the Scenes","textChars":17,"textLines":1,"bbox":[440,420,170,54]}
+{"kind":"textbox","id":"sh/7mdsnuxg","slide":8,"name":"text","text":"Handwerk in Küche oder Bar","textPreview":"Handwerk in Küche oder Bar","textChars":26,"textLines":1,"bbox":[440,500,170,58]}
+{"kind":"shape","id":"sh/6l4bupgv","slide":8,"name":"timeline-dot-4","bbox":[653,333,16,16]}
+{"kind":"textbox","id":"sh/hcvat4fi","slide":8,"name":"text","text":"WOCHE 4","textPreview":"WOCHE 4","textChars":7,"textLines":1,"bbox":[628,380,160,22]}
+{"kind":"textbox","id":"sh/gbmt0zex","slide":8,"name":"text","text":"Gastgeber","textPreview":"Gastgeber","textChars":9,"textLines":1,"bbox":[628,420,170,54]}
+{"kind":"textbox","id":"sh/gvudw3m9","slide":8,"name":"text","text":"Team, Service oder Ritual","textPreview":"Team, Service oder Ritual","textChars":25,"textLines":1,"bbox":[628,500,170,58]}
+{"kind":"textbox","id":"sh/1gnup8ne","slide":8,"name":"text","text":"Der genaue Rhythmus wird an Karte, Events, Saison und Kanäle angepasst.","textPreview":"Der genaue Rhythmus wird an Karte, Events, Saison und Kanäle angepasst.","textChars":71,"textLines":1,"bbox":[64,612,690,26]}
+{"kind":"textbox","id":"sh/etcvud43","slide":8,"name":"brand-footer","text":"ZAUBERWALD / VISUALS","textPreview":"ZAUBERWALD / VISUALS","textChars":20,"textLines":1,"bbox":[64,674,280,18]}
+{"kind":"textbox","id":"sh/fulcni5o","slide":8,"name":"page-number","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1170,674,46,18]}
+{"kind":"image","id":"im/69wf2pob","slide":8,"name":"","alt":"Sommelier pouring red wine","bbox":[862,0,418,720]}
+{"kind":"notes","id":"nt/sldbuc","slide":8,"text":"[Sources]\n- Brand reference: https://zauberwald-visuals.de/work (accessed 2026-08-20)\n- Restaurant imagery: AI-generated concept photography by OpenAI image generation for this presentation, 2026-08-20.\n[/Sources]"}
+{"kind":"slide","id":"sl/q3gz4q","slide":9,"title":"08  /  DREI MÖGLICHE UMFÄNGE","textShapes":15}
+{"kind":"textbox","id":"sh/cfutg7yh","slide":9,"name":"text","text":"08  /  DREI MÖGLICHE UMFÄNGE","textPreview":"08  /  DREI MÖGLICHE UMFÄNGE","textChars":28,"textLines":1,"bbox":[64,50,420,22]}
+{"kind":"textbox","id":"sh/belcn2xw","slide":9,"name":"text","text":"Der Content-Plan richtet sich nach dem Ziel.","textPreview":"Der Content-Plan richtet sich nach dem Ziel.","textChars":44,"textLines":1,"bbox":[64,104,800,108]}
+{"kind":"textbox","id":"sh/qdcbexgb","slide":9,"name":"text","text":"Die finalen Mengen und Formate werden individuell auf Kanäle, Saison und Veröffentlichungsrhythmus abgestimmt.","textPreview":"Die finalen Mengen und Formate werden individuell auf Kanäle, Saison und Veröffentlichungsrhythmus abgestimmt.","textChars":110,"textLines":1,"bbox":[64,218,860,54]}
+{"kind":"shape","id":"sh/l4nutcfy","slide":9,"name":"rule","bbox":[64,296,330,2]}
+{"kind":"textbox","id":"sh/0jedk7yd","slide":9,"name":"text","text":"FOTOGRAFIE","textPreview":"FOTOGRAFIE","textChars":10,"textLines":1,"bbox":[64,330,330,30]}
+{"kind":"textbox","id":"sh/zi5cr2xs","slide":9,"name":"text","text":"Eine vielseitige Bildbibliothek","textPreview":"Eine vielseitige Bildbibliothek","textChars":31,"textLines":1,"bbox":[64,384,330,56]}
+{"kind":"textbox","id":"sh/yhcbixg7","slide":9,"name":"text","text":"Gerichte\nRaum & Details\nTeam & Service\nWebsite + Social","textPreview":"Gerichte | Raum & Details | Team & Service | Website + Social","textChars":55,"textLines":4,"bbox":[64,468,330,120]}
+{"kind":"shape","id":"sh/98nuxcfu","slide":9,"name":"rule","bbox":[454,296,330,2]}
+{"kind":"textbox","id":"sh/87edory9","slide":9,"name":"text","text":"VIDEO","textPreview":"VIDEO","textChars":5,"textLines":1,"bbox":[454,330,330,30]}
+{"kind":"textbox","id":"sh/29cr2po3","slide":9,"name":"text","text":"Bewegte Geschichten mit Tempo","textPreview":"Bewegte Geschichten mit Tempo","textChars":29,"textLines":1,"bbox":[454,384,330,56]}
+{"kind":"textbox","id":"sh/nal8bupo","slide":9,"name":"text","text":"Hero Reel\nKurzformate\nProcess-Sequenzen\nSocial-first Schnitt","textPreview":"Hero Reel | Kurzformate | Process-Sequenzen | Social-first Schnitt","textChars":60,"textLines":4,"bbox":[454,468,330,120]}
+{"kind":"shape","id":"sh/obu94z69","slide":9,"name":"rule","bbox":[844,296,330,4]}
+{"kind":"textbox","id":"sh/pc3qdk7u","slide":9,"name":"text","text":"HYBRID","textPreview":"HYBRID","textChars":6,"textLines":1,"bbox":[844,330,330,30]}
+{"kind":"textbox","id":"sh/adcr6pof","slide":9,"name":"text","text":"Ein konsistenter Auftritt","textPreview":"Ein konsistenter Auftritt","textChars":25,"textLines":1,"bbox":[844,384,330,56]}
+{"kind":"textbox","id":"sh/be58fupk","slide":9,"name":"text","text":"Foto + Video\nGemeinsame Bildsprache\nMehr Touchpoints\nEffizienter Produktionstag","textPreview":"Foto + Video | Gemeinsame Bildsprache | Mehr Touchpoints | Effizienter Produktionstag","textChars":79,"textLines":4,"bbox":[844,468,330,120]}
+{"kind":"textbox","id":"sh/cze98z65","slide":9,"name":"text","text":"EMPFEHLUNG","textPreview":"EMPFEHLUNG","textChars":10,"textLines":1,"bbox":[844,620,190,20]}
+{"kind":"textbox","id":"sh/x0nqh47q","slide":9,"name":"brand-footer","text":"ZAUBERWALD / VISUALS","textPreview":"ZAUBERWALD / VISUALS","textChars":20,"textLines":1,"bbox":[64,674,280,18]}
+{"kind":"textbox","id":"sh/qhs7u5ov","slide":9,"name":"page-number","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1170,674,46,18]}
+{"kind":"notes","id":"nt/q3gz4q","slide":9,"text":"[Sources]\n- Brand reference: https://zauberwald-visuals.de/work (accessed 2026-08-20)\n- Restaurant imagery: AI-generated concept photography by OpenAI image generation for this presentation, 2026-08-20.\n[/Sources]"}
+{"kind":"slide","id":"sl/p3lb1r","slide":10,"title":"DER NÄCHSTE SCHRITT","textShapes":6}
+{"kind":"textbox","id":"sh/u9kvq50n","slide":10,"name":"text","text":"DER NÄCHSTE SCHRITT","textPreview":"DER NÄCHSTE SCHRITT","textChars":19,"textLines":1,"bbox":[64,62,320,22]}
+{"kind":"textbox","id":"sh/hcbelkjy","slide":10,"name":"text","text":"Aus dem Konzept wird\neine Bildwelt, die zu Ihrem Haus passt.","textPreview":"Aus dem Konzept wird | eine Bildwelt, die zu Ihrem Haus passt.","textChars":60,"textLines":2,"bbox":[64,158,940,206]}
+{"kind":"shape","id":"sh/wb2xsfid","slide":10,"name":"rule","bbox":[64,382,90,4]}
+{"kind":"textbox","id":"sh/jedwnu14","slide":10,"name":"text","text":"Im Gespräch definieren wir Ziel, Kanäle, Motive und Produktionsumfang. Daraus entsteht ein konkreter Shooting- und Veröffentlichungsplan.","textPreview":"Im Gespräch definieren wir Ziel, Kanäle, Motive und Produktionsumfang. Daraus entsteht ein konkreter Shooting- und Veröffentlichungsplan.","textChars":137,"textLines":1,"bbox":[64,416,680,84]}
+{"kind":"textbox","id":"sh/idkfup0j","slide":10,"name":"text","text":"zauberwald-visuals.de","textPreview":"zauberwald-visuals.de","textChars":21,"textLines":1,"bbox":[64,586,420,34]}
+{"kind":"textbox","id":"sh/5gvepkja","slide":10,"name":"text","text":"FOTOGRAFIE  /  VIDEO  /  HYBRID","textPreview":"FOTOGRAFIE  /  VIDEO  /  HYBRID","textChars":31,"textLines":1,"bbox":[64,632,390,22]}
+{"kind":"textbox","id":"sh/4fmxwzip","slide":10,"name":"text","text":"ZAUBERWALD\nVISUALS","textPreview":"ZAUBERWALD | VISUALS","textChars":18,"textLines":2,"bbox":[860,530,340,84]}
+{"kind":"notes","id":"nt/p3lb1r","slide":10,"text":"[Sources]\n- Brand reference: https://zauberwald-visuals.de/work (accessed 2026-08-20)\n- Restaurant imagery: AI-generated concept photography by OpenAI image generation for this presentation, 2026-08-20.\n[/Sources]"}
