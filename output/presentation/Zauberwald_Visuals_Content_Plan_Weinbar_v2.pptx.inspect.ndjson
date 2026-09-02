@@ -1,4 +1,4 @@
-{"kind":"deck","id":"pr/lpcwan","name":"Deck"}
+{"kind":"deck","id":"pr/1v1eg3","name":"Deck"}
 {"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"Master","type":"master"}
 {"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Title Slide","type":"title"}
 {"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"CONTENT PLAN","textShapes":4}
@@ -69,7 +69,7 @@
 {"kind":"textbox","id":"sh/n6dcr65o","slide":5,"name":"text","text":"WEINRITUAL","textPreview":"WEINRITUAL","textChars":10,"textLines":1,"bbox":[760,468,250,26]}
 {"kind":"textbox","id":"sh/m5kbi1oj","slide":5,"name":"text","text":"Vom Öffnen bis zum ersten Schluck\nEin Ablauf, ein Handwerk, eine Geschichte.","textPreview":"Vom Öffnen bis zum ersten Schluck | Ein Ablauf, ein Handwerk, eine Geschichte.","textChars":76,"textLines":2,"bbox":[760,510,390,70]}
 {"kind":"textbox","id":"sh/x4vedgvm","slide":5,"name":"page-number","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1170,674,46,18]}
-{"kind":"image","id":"im/srmx0vmd","slide":5,"name":"","bbox":[64,300,640,320]}
+{"kind":"image","id":"im/srmx0vmd","slide":5,"name":"","alt":"Verkostung mit Rotwein, Weißwein und Rosé von oben","bbox":[64,300,640,320]}
 {"kind":"image","id":"im/jmdw3qlg","slide":5,"name":"","bbox":[1158,608,58,58]}
 {"kind":"notes","id":"nt/i107q5of","slide":5,"text":"[Sources]\n- Zauberwald Visuals brand and layout inherited from the source deck.\n- OpenAI built-in image generation: 07-overhead-tasting.png (generated 2026-09-02).\n[/Sources]"}
 {"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"05  /  HYBRID","textShapes":8}
