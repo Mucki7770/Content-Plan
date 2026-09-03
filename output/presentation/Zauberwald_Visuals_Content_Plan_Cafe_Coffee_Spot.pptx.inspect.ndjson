@@ -1,0 +1,164 @@
+{"kind":"deck","id":"pr/pimuay","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"CONTENT PLAN","textShapes":4}
+{"kind":"shape","id":"sh/547294r6","slide":1,"name":"cover-panel","bbox":[0,0,542,720]}
+{"kind":"textbox","id":"sh/k3yl0zql","slide":1,"name":"eyebrow","text":"CONTENT PLAN","textPreview":"CONTENT PLAN","textChars":12,"textLines":1,"bbox":[64,68,340,24]}
+{"kind":"textbox","id":"sh/7qp4be9c","slide":1,"name":"deck-title","text":"Café / Coffee Spot","textPreview":"Café / Coffee Spot","textChars":18,"textLines":1,"bbox":[64,204,650,86]}
+{"kind":"shape","id":"sh/65g3298r","slide":1,"name":"rule","bbox":[64,314,90,4]}
+{"kind":"textbox","id":"sh/ts7md4r2","slide":1,"name":"cover-subtitle","text":"Eine klare Bildsprache.\nEin planbarer Auftritt.\nContent, der Lust auf Kaffee macht.","textPreview":"Eine klare Bildsprache. | Ein planbarer Auftritt. | Content, der Lust auf Kaffee macht.","textChars":83,"textLines":3,"bbox":[64,350,410,142]}
+{"kind":"textbox","id":"sh/sryl4zqx","slide":1,"name":"text","text":"FOTOGRAFIE  /  VIDEO  /  HYBRID","textPreview":"FOTOGRAFIE  /  VIDEO  /  HYBRID","textChars":31,"textLines":1,"bbox":[64,615,390,22]}
+{"kind":"image","id":"im/6lgjadw3","slide":1,"name":"","alt":"Barista bereitet Espresso an einer Siebträgermaschine zu","prompt":"Premium editorial specialty-coffee cover with barista hands and espresso machine; no logos or text.","bbox":[706,0,574,720]}
+{"kind":"image","id":"im/7mp0jixo","slide":1,"name":"","bbox":[1158,608,58,58]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":"[Sources]\n- OpenAI built-in image generation: 01-cover-barista.png (generated 2026-09-03)\n- Authentic Zauberwald Visuals logo and visual system inherited from the source deck.\n[/Sources]"}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"01  /  DER ANSATZ","textShapes":6}
+{"kind":"textbox","id":"sh/ove9o7yd","slide":2,"name":"text","text":"01  /  DER ANSATZ","textPreview":"01  /  DER ANSATZ","textChars":17,"textLines":1,"bbox":[64,50,300,22]}
+{"kind":"textbox","id":"sh/9072xkry","slide":2,"name":"text","text":"Der Cafébesuch beginnt\nvor dem ersten Schluck.","textPreview":"Der Cafébesuch beginnt | vor dem ersten Schluck.","textChars":46,"textLines":2,"bbox":[64,108,630,176]}
+{"kind":"textbox","id":"sh/ozy1ofad","slide":2,"name":"text","text":"Gäste entscheiden mit den Augen: über Kaffee, Atmosphäre und das Gefühl, das sie bei Ihnen erwartet.","textPreview":"Gäste entscheiden mit den Augen: über Kaffee, Atmosphäre und das Gefühl, das sie bei Ihnen erwartet.","textChars":100,"textLines":1,"bbox":[64,292,520,72]}
+{"kind":"shape","id":"sh/b29kza94","slide":2,"name":"rule","bbox":[64,394,72,3]}
+{"kind":"textbox","id":"sh/a10jqpsj","slide":2,"name":"text","text":"Die Aufgabe des Contents","textPreview":"Die Aufgabe des Contents","textChars":24,"textLines":1,"bbox":[64,424,370,30]}
+{"kind":"textbox","id":"sh/x4r21kru","slide":2,"name":"text","text":"Nicht nur Kaffee zeigen - sondern spürbar machen, warum man genau hier ankommen, bleiben und wiederkommen möchte.","textPreview":"Nicht nur Kaffee zeigen - sondern spürbar machen, warum man genau hier ankommen, bleiben und wiederkommen möchte.","textChars":113,"textLines":1,"bbox":[64,474,510,96]}
+{"kind":"textbox","id":"sh/q5wjelsz","slide":2,"name":"page-number","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1170,674,46,18]}
+{"kind":"image","id":"im/ixwfa50j","slide":2,"name":"","alt":"Einladendes Specialty Café kurz vor der Öffnung","prompt":"Warm editorial independent coffee-shop interior before opening; no logos or text.","bbox":[706,0,574,648]}
+{"kind":"image","id":"im/507e5kja","slide":2,"name":"","bbox":[1158,608,58,58]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":"[Sources]\n- OpenAI built-in image generation: 02-cafe-interior.png (generated 2026-09-03)\n- Authentic Zauberwald Visuals logo and visual system inherited from the source deck.\n[/Sources]"}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"02  /  DIE BILDWELT","textShapes":7}
+{"kind":"textbox","id":"sh/943mhgre","slide":3,"name":"text","text":"02  /  DIE BILDWELT","textPreview":"02  /  DIE BILDWELT","textChars":19,"textLines":1,"bbox":[64,50,300,22]}
+{"kind":"textbox","id":"sh/cza94vmx","slide":3,"name":"text","text":"Eine visuelle Handschrift,\ndie sofort wiedererkennbar ist.","textPreview":"Eine visuelle Handschrift, | die sofort wiedererkennbar ist.","textChars":58,"textLines":2,"bbox":[64,102,610,164]}
+{"kind":"textbox","id":"sh/d0jax03i","slide":3,"name":"text","text":"Warm. Direkt. Hochwertig. Mit natürlichem Licht, klaren Perspektiven und echten Texturen, die Kaffee und Atmosphäre spürbar machen.","textPreview":"Warm. Direkt. Hochwertig. Mit natürlichem Licht, klaren Perspektiven und echten Texturen, die Kaffee und Atmosphäre spürbar machen.","textChars":131,"textLines":1,"bbox":[64,270,500,64]}
+{"kind":"textbox","id":"sh/pcjqtg36","slide":3,"name":"text","text":"KAFFEE & SIGNATURES","textPreview":"KAFFEE & SIGNATURES","textChars":19,"textLines":1,"bbox":[64,620,368,18]}
+{"kind":"textbox","id":"sh/m5cra54z","slide":3,"name":"text","text":"BARISTA & RITUALE","textPreview":"BARISTA & RITUALE","textChars":17,"textLines":1,"bbox":[456,620,368,18]}
+{"kind":"textbox","id":"sh/n6ls3alk","slide":3,"name":"text","text":"BOHNEN & DETAILS","textPreview":"BOHNEN & DETAILS","textChars":16,"textLines":1,"bbox":[848,620,368,18]}
+{"kind":"textbox","id":"sh/m1c3mlsn","slide":3,"name":"page-number","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1170,674,46,18]}
+{"kind":"image","id":"im/3q5onqdc","slide":3,"name":"","alt":"Espresso in handgefertigter Keramiktasse","prompt":"Editorial espresso product hero; no logos or text.","bbox":[64,356,368,246]}
+{"kind":"image","id":"im/gne5cvel","slide":3,"name":"","alt":"Barista gießt Latte Art","prompt":"Editorial latte-art pouring ritual; no logos or text.","bbox":[456,356,368,246]}
+{"kind":"image","id":"im/hon6lgv6","slide":3,"name":"","alt":"Barista stellt eine Handmühle neben Kaffeebohnen ein","prompt":"Editorial coffee-bean and grinder craftsmanship; no logos or text.","bbox":[848,356,368,246]}
+{"kind":"image","id":"im/ulcnalwf","slide":3,"name":"","bbox":[1158,608,58,58]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":"[Sources]\n- OpenAI built-in image generation: 03-espresso.png (generated 2026-09-03)\n- OpenAI built-in image generation: 04-latte-art.png (generated 2026-09-03)\n- OpenAI built-in image generation: 05-grinder-beans.png (generated 2026-09-03)\n- Authentic Zauberwald Visuals logo and visual system inherited from the source deck.\n[/Sources]"}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"03  /  FOTOGRAFIE","textShapes":16}
+{"kind":"textbox","id":"sh/1cj2d8b6","slide":4,"name":"text","text":"03  /  FOTOGRAFIE","textPreview":"03  /  FOTOGRAFIE","textChars":17,"textLines":1,"bbox":[624,50,300,22]}
+{"kind":"textbox","id":"sh/0ba143al","slide":4,"name":"text","text":"Ein Shooting.\nContent für viele Anlässe.","textPreview":"Ein Shooting. | Content für viele Anlässe.","textChars":40,"textLines":2,"bbox":[624,112,560,160]}
+{"kind":"textbox","id":"sh/rm1k7yt4","slide":4,"name":"text","text":"Fotografie schafft eine starke, flexible Bildbibliothek für Website, Social Media, Presse und Reservierungsplattformen.","textPreview":"Fotografie schafft eine starke, flexible Bildbibliothek für Website, Social Media, Presse und Reservierungsplattformen.","textChars":119,"textLines":1,"bbox":[624,282,520,70]}
+{"kind":"textbox","id":"sh/ql8jytsj","slide":4,"name":"text","text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[624,385,38,22]}
+{"kind":"textbox","id":"sh/doj29oba","slide":4,"name":"text","text":"Kaffee","textPreview":"Kaffee","textChars":6,"textLines":1,"bbox":[682,382,150,28]}
+{"kind":"textbox","id":"sh/sna103ap","slide":4,"name":"text","text":"Espresso, Filter, saisonale Specials","textPreview":"Espresso, Filter, saisonale Specials","textChars":36,"textLines":1,"bbox":[836,384,350,24]}
+{"kind":"shape","id":"sh/3ihk3et8","slide":4,"name":"rule","bbox":[624,426,560,1]}
+{"kind":"textbox","id":"sh/ih8ju9sn","slide":4,"name":"text","text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[624,441,38,22]}
+{"kind":"textbox","id":"sh/kbm987y5","slide":4,"name":"text","text":"Raum","textPreview":"Raum","textChars":4,"textLines":1,"bbox":[682,438,150,28]}
+{"kind":"textbox","id":"sh/5cva1cfq","slide":4,"name":"text","text":"Bar, Sitzplätze, Morgenlicht","textPreview":"Bar, Sitzplätze, Morgenlicht","textChars":28,"textLines":1,"bbox":[836,440,350,24]}
+{"kind":"shape","id":"sh/i94r6xgz","slide":4,"name":"rule","bbox":[624,482,560,1]}
+{"kind":"textbox","id":"sh/jadsz2xk","slide":4,"name":"text","text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[624,497,38,22]}
+{"kind":"textbox","id":"sh/w72947yt","slide":4,"name":"text","text":"Menschen","textPreview":"Menschen","textChars":8,"textLines":1,"bbox":[682,494,150,28]}
+{"kind":"textbox","id":"sh/x8vaxsfe","slide":4,"name":"text","text":"Baristas, Gäste, echte Begegnungen","textPreview":"Baristas, Gäste, echte Begegnungen","textChars":34,"textLines":1,"bbox":[836,496,350,24]}
+{"kind":"shape","id":"sh/a5kr2xg3","slide":4,"name":"rule","bbox":[624,538,560,1]}
+{"kind":"textbox","id":"sh/v6tsv2xo","slide":4,"name":"text","text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[624,553,38,22]}
+{"kind":"textbox","id":"sh/g36tgryd","slide":4,"name":"text","text":"Details","textPreview":"Details","textChars":7,"textLines":1,"bbox":[682,550,150,28]}
+{"kind":"textbox","id":"sh/h4fa9wfy","slide":4,"name":"text","text":"Bohnen, Mühle, Latte Art","textPreview":"Bohnen, Mühle, Latte Art","textChars":24,"textLines":1,"bbox":[836,552,350,24]}
+{"kind":"shape","id":"sh/p0batw72","slide":4,"name":"rule","bbox":[624,594,560,1]}
+{"kind":"textbox","id":"sh/3ytsrmpw","slide":4,"name":"page-number","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1170,674,46,18]}
+{"kind":"image","id":"im/94jq9oju","slide":4,"name":"","alt":"Frischer Espresso läuft aus dem Siebträger","prompt":"Editorial espresso extraction process in a specialty café; no logos or text.","bbox":[0,0,560,720]}
+{"kind":"image","id":"im/a5sritkf","slide":4,"name":"","bbox":[1158,608,58,58]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":"[Sources]\n- OpenAI built-in image generation: 06-espresso-shot.png (generated 2026-09-03)\n- Authentic Zauberwald Visuals logo and visual system inherited from the source deck.\n[/Sources]"}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"04  /  VIDEO","textShapes":8}
+{"kind":"textbox","id":"sh/ahkvi1cb","slide":5,"name":"text","text":"04  /  VIDEO","textPreview":"04  /  VIDEO","textChars":12,"textLines":1,"bbox":[64,50,300,22]}
+{"kind":"textbox","id":"sh/dgbulwnm","slide":5,"name":"text","text":"Bewegung macht das Erlebnis spürbar.","textPreview":"Bewegung macht das Erlebnis spürbar.","textChars":36,"textLines":1,"bbox":[64,104,720,110]}
+{"kind":"textbox","id":"sh/cf2tcr61","slide":5,"name":"text","text":"Mahlen. Tampen. Extraktion. Milch. Der erste Schluck. Kurze Filme machen Handwerk und Atmosphäre spürbar.","textPreview":"Mahlen. Tampen. Extraktion. Milch. Der erste Schluck. Kurze Filme machen Handwerk und Atmosphäre spürbar.","textChars":105,"textLines":1,"bbox":[64,222,610,56]}
+{"kind":"textbox","id":"sh/yhkbe1o7","slide":5,"name":"text","text":"REEL / TIKTOK","textPreview":"REEL / TIKTOK","textChars":13,"textLines":1,"bbox":[760,306,250,26]}
+{"kind":"textbox","id":"sh/l4bupwny","slide":5,"name":"text","text":"15-30 Sekunden\nEin Café-Morgen als emotionaler Kurzfilm.","textPreview":"15-30 Sekunden | Ein Café-Morgen als emotionaler Kurzfilm.","textChars":56,"textLines":2,"bbox":[760,348,390,70]}
+{"kind":"shape","id":"sh/032tgr6d","slide":5,"name":"rule","bbox":[760,440,390,1]}
+{"kind":"textbox","id":"sh/n6dcr65o","slide":5,"name":"text","text":"PROCESS","textPreview":"PROCESS","textChars":7,"textLines":1,"bbox":[760,468,250,26]}
+{"kind":"textbox","id":"sh/m5kbi1oj","slide":5,"name":"text","text":"Vom Shot bis zur Latte Art\nEin Ablauf, ein Handwerk, eine Geschichte.","textPreview":"Vom Shot bis zur Latte Art | Ein Ablauf, ein Handwerk, eine Geschichte.","textChars":69,"textLines":2,"bbox":[760,510,390,70]}
+{"kind":"textbox","id":"sh/x4vedgvm","slide":5,"name":"page-number","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1170,674,46,18]}
+{"kind":"image","id":"im/srmx0vmd","slide":5,"name":"","alt":"Café-Morgen mit Kaffeevarianten und frischem Gebäck von oben","prompt":"Editorial overhead café morning with coffee and fresh bakes; no logos or text.","bbox":[64,300,640,320]}
+{"kind":"image","id":"im/jmdw3qlg","slide":5,"name":"","bbox":[1158,608,58,58]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":"[Sources]\n- OpenAI built-in image generation: 07-overhead-cafe-morning.png (generated 2026-09-03)\n- Authentic Zauberwald Visuals logo and visual system inherited from the source deck.\n[/Sources]"}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"05  /  HYBRID","textShapes":8}
+{"kind":"textbox","id":"sh/v2tcn650","slide":6,"name":"text","text":"05  /  HYBRID","textPreview":"05  /  HYBRID","textChars":13,"textLines":1,"bbox":[64,50,300,22]}
+{"kind":"textbox","id":"sh/yhg7epsj","slide":6,"name":"text","text":"Ein Partner.\nEin roter Faden in Foto und Film.","textPreview":"Ein Partner. | Ein roter Faden in Foto und Film.","textChars":46,"textLines":2,"bbox":[64,104,660,160]}
+{"kind":"textbox","id":"sh/87ipkzal","slide":6,"name":"text","text":"Mit einem festen Partner bleiben Bildsprache, Qualität und Abläufe konstant. Wechselnde Fotografen und Videografen bringen unterschiedliche Stile, Vorstellungen und Ergebnisse.","textPreview":"Mit einem festen Partner bleiben Bildsprache, Qualität und Abläufe konstant. Wechselnde Fotografen und Videografen bringen unterschiedlic...","textChars":176,"textLines":1,"bbox":[64,274,600,94]}
+{"kind":"shape","id":"sh/98rqt4r6","slide":6,"name":"rule","bbox":[64,406,540,1]}
+{"kind":"textbox","id":"sh/ml07i9sv","slide":6,"name":"text","text":"FOTO","textPreview":"FOTO","textChars":4,"textLines":1,"bbox":[64,440,110,28]}
+{"kind":"textbox","id":"sh/7m98ru9g","slide":6,"name":"text","text":"Starke Einzelmotive für Feed, Website und PR.","textPreview":"Starke Einzelmotive für Feed, Website und PR.","textChars":45,"textLines":1,"bbox":[190,442,420,54]}
+{"kind":"textbox","id":"sh/oryp8fah","slide":6,"name":"text","text":"VIDEO","textPreview":"VIDEO","textChars":5,"textLines":1,"bbox":[64,530,110,28]}
+{"kind":"textbox","id":"sh/pc76hkr2","slide":6,"name":"text","text":"Dynamische Reels und Sequenzen für Reichweite und Nähe.","textPreview":"Dynamische Reels und Sequenzen für Reichweite und Nähe.","textChars":55,"textLines":1,"bbox":[190,532,420,54]}
+{"kind":"textbox","id":"sh/w32twb6l","slide":6,"name":"page-number","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1170,674,46,18]}
+{"kind":"image","id":"im/t03ulobq","slide":6,"name":"","alt":"Barista trägt Cappuccino, Espresso und Wasser auf einem Tablett","prompt":"Candid editorial café service moment with a black apron and tray of coffee drinks; no logos or text.","bbox":[816,0,464,720]}
+{"kind":"image","id":"im/y9sbm9c3","slide":6,"name":"","bbox":[1158,608,58,58]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":"[Sources]\n- OpenAI built-in image generation: 08-service-tray-v2.png (generated 2026-09-03)\n- Authentic Zauberwald Visuals logo and visual system inherited from the source deck.\n[/Sources]"}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"06  /  CONTENT-SÄULEN","textShapes":15}
+{"kind":"textbox","id":"sh/4fm1wb6p","slide":7,"name":"text","text":"06  /  CONTENT-SÄULEN","textPreview":"06  /  CONTENT-SÄULEN","textChars":21,"textLines":1,"bbox":[64,50,340,22]}
+{"kind":"textbox","id":"sh/cb2tkvap","slide":7,"name":"text","text":"Vier Perspektiven erzählen\ndie ganze Geschichte des Hauses.","textPreview":"Vier Perspektiven erzählen | die ganze Geschichte des Hauses.","textChars":59,"textLines":2,"bbox":[64,104,690,104]}
+{"kind":"textbox","id":"sh/ydkbm5sv","slide":7,"name":"text","text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[64,315,42,22]}
+{"kind":"textbox","id":"sh/zedcfa9g","slide":7,"name":"text","text":"KAFFEE","textPreview":"KAFFEE","textChars":6,"textLines":1,"bbox":[126,311,190,30]}
+{"kind":"textbox","id":"sh/kzmdova1","slide":7,"name":"text","text":"Espresso, Filter, saisonale Specials","textPreview":"Espresso, Filter, saisonale Specials","textChars":36,"textLines":1,"bbox":[340,312,390,28]}
+{"kind":"shape","id":"sh/l0vuh0rm","slide":7,"name":"rule","bbox":[64,360,666,1]}
+{"kind":"textbox","id":"sh/eh0ba1sr","slide":7,"name":"text","text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[64,393,42,22]}
+{"kind":"textbox","id":"sh/fi9c369c","slide":7,"name":"text","text":"MENSCHEN","textPreview":"MENSCHEN","textChars":8,"textLines":1,"bbox":[126,389,190,30]}
+{"kind":"textbox","id":"sh/baxkjqlk","slide":7,"name":"text","text":"Baristas, Gäste, Gastgeber-Momente","textPreview":"Baristas, Gäste, Gastgeber-Momente","textChars":34,"textLines":1,"bbox":[340,390,390,28]}
+{"kind":"shape","id":"sh/a9ojq5kz","slide":7,"name":"rule","bbox":[64,438,666,1]}
+{"kind":"textbox","id":"sh/xcz2l03q","slide":7,"name":"text","text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[64,471,42,22]}
+{"kind":"textbox","id":"sh/cbq1sv25","slide":7,"name":"text","text":"ATMOSPHÄRE","textPreview":"ATMOSPHÄRE","textChars":10,"textLines":1,"bbox":[126,467,190,30]}
+{"kind":"textbox","id":"sh/n6x0fqlo","slide":7,"name":"text","text":"Raum, Licht, Tagesrhythmus","textPreview":"Raum, Licht, Tagesrhythmus","textChars":26,"textLines":1,"bbox":[340,468,390,28]}
+{"kind":"shape","id":"sh/25ojml43","slide":7,"name":"rule","bbox":[64,516,666,1]}
+{"kind":"textbox","id":"sh/p8fih03e","slide":7,"name":"text","text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[64,549,42,22]}
+{"kind":"textbox","id":"sh/o761ov2t","slide":7,"name":"text","text":"HALTUNG","textPreview":"HALTUNG","textChars":7,"textLines":1,"bbox":[126,545,190,30]}
+{"kind":"textbox","id":"sh/f2d0b6lc","slide":7,"name":"text","text":"Bohnen, Herkunft, Handwerk","textPreview":"Bohnen, Herkunft, Handwerk","textChars":26,"textLines":1,"bbox":[340,546,390,28]}
+{"kind":"shape","id":"sh/eh4jil4r","slide":7,"name":"rule","bbox":[64,594,666,1]}
+{"kind":"textbox","id":"sh/jedkn654","slide":7,"name":"page-number","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1170,674,46,18]}
+{"kind":"image","id":"im/u9knu9o3","slide":7,"name":"","alt":"Top-down Stilllife aus Kaffee, Bohnen, Portafilter und Gebäck","prompt":"Editorial specialty-coffee still life with cup, beans, portafilter and small pastry; no logos or text.","bbox":[816,0,464,720]}
+{"kind":"image","id":"im/50v6tonq","slide":7,"name":"","bbox":[1158,608,58,58]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":"[Sources]\n- OpenAI built-in image generation: 09-coffee-flatlay.png (generated 2026-09-03)\n- Authentic Zauberwald Visuals logo and visual system inherited from the source deck.\n[/Sources]"}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"07  /  BEISPIELHAFTER MONAT","textShapes":16}
+{"kind":"textbox","id":"sh/5sne5wne","slide":8,"name":"text","text":"07  /  BEISPIELHAFTER MONAT","textPreview":"07  /  BEISPIELHAFTER MONAT","textChars":27,"textLines":1,"bbox":[64,50,390,22]}
+{"kind":"textbox","id":"sh/18byd4zy","slide":8,"name":"text","text":"Aus einem Shooting entsteht\nein planbarer Content-Rhythmus.","textPreview":"Aus einem Shooting entsteht | ein planbarer Content-Rhythmus.","textChars":59,"textLines":2,"bbox":[64,104,650,104]}
+{"kind":"shape","id":"sh/ri9g7uhw","slide":8,"name":"rule","bbox":[92,368,670,2]}
+{"kind":"shape","id":"sh/6h0fypgb","slide":8,"name":"timeline-dot-1","bbox":[89,361,16,16]}
+{"kind":"textbox","id":"sh/tkby9kzm","slide":8,"name":"text","text":"WOCHE 1","textPreview":"WOCHE 1","textChars":7,"textLines":1,"bbox":[64,408,160,22]}
+{"kind":"textbox","id":"sh/sjix0zy1","slide":8,"name":"text","text":"Reel / TikTok","textPreview":"Reel / TikTok","textChars":13,"textLines":1,"bbox":[64,448,170,54]}
+{"kind":"textbox","id":"sh/je9g3ahk","slide":8,"name":"text","text":"Morgenstimmung & erster Shot","textPreview":"Morgenstimmung & erster Shot","textChars":28,"textLines":1,"bbox":[64,528,170,58]}
+{"kind":"shape","id":"sh/id0fu50z","slide":8,"name":"timeline-dot-2","bbox":[277,361,16,16]}
+{"kind":"textbox","id":"sh/o7ydoret","slide":8,"name":"text","text":"WOCHE 2","textPreview":"WOCHE 2","textChars":7,"textLines":1,"bbox":[252,408,160,22]}
+{"kind":"textbox","id":"sh/98rehwve","slide":8,"name":"text","text":"Signature Coffee","textPreview":"Signature Coffee","textChars":16,"textLines":1,"bbox":[252,448,170,54]}
+{"kind":"textbox","id":"sh/m5gvmhwn","slide":8,"name":"text","text":"Drink + kurze Story","textPreview":"Drink + kurze Story","textChars":19,"textLines":1,"bbox":[252,528,170,58]}
+{"kind":"shape","id":"sh/n6pwfmd8","slide":8,"name":"timeline-dot-3","bbox":[465,361,16,16]}
+{"kind":"textbox","id":"sh/0jydkreh","slide":8,"name":"text","text":"WOCHE 3","textPreview":"WOCHE 3","textChars":7,"textLines":1,"bbox":[440,408,160,22]}
+{"kind":"textbox","id":"sh/1k7edwv2","slide":8,"name":"text","text":"Behind the Scenes","textPreview":"Behind the Scenes","textChars":17,"textLines":1,"bbox":[440,448,170,54]}
+{"kind":"textbox","id":"sh/ehgvihwr","slide":8,"name":"text","text":"Handwerk an der Kaffeebar","textPreview":"Handwerk an der Kaffeebar","textChars":25,"textLines":1,"bbox":[440,528,170,58]}
+{"kind":"shape","id":"sh/zipwbmdc","slide":8,"name":"timeline-dot-4","bbox":[653,361,16,16]}
+{"kind":"textbox","id":"sh/kfixwbe1","slide":8,"name":"text","text":"WOCHE 4","textPreview":"WOCHE 4","textChars":7,"textLines":1,"bbox":[628,408,160,22]}
+{"kind":"textbox","id":"sh/lgbepgvm","slide":8,"name":"text","text":"Gastgeber","textPreview":"Gastgeber","textChars":9,"textLines":1,"bbox":[628,448,170,54]}
+{"kind":"textbox","id":"sh/tw7e9gnq","slide":8,"name":"text","text":"Team, Service oder Ritual","textPreview":"Team, Service oder Ritual","textChars":25,"textLines":1,"bbox":[628,528,170,58]}
+{"kind":"textbox","id":"sh/svydgb65","slide":8,"name":"text","text":"Der genaue Rhythmus wird an Karte, Tageszeiten, Saison und Kanäle angepasst.","textPreview":"Der genaue Rhythmus wird an Karte, Tageszeiten, Saison und Kanäle angepasst.","textChars":76,"textLines":1,"bbox":[64,624,690,26]}
+{"kind":"textbox","id":"sh/6twve1oz","slide":8,"name":"page-number","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1170,674,46,18]}
+{"kind":"image","id":"im/bmxs7ilg","slide":8,"name":"","alt":"Cappuccino und Iced Coffee als grafisches Top-down Stilllife","prompt":"Editorial top-down still life of two signature coffee drinks; no logos or text.","bbox":[816,0,464,720]}
+{"kind":"image","id":"im/wnq9gnm1","slide":8,"name":"","bbox":[1158,608,58,58]}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":"[Sources]\n- OpenAI built-in image generation: 10-signature-coffees.png (generated 2026-09-03)\n- Authentic Zauberwald Visuals logo and visual system inherited from the source deck.\n[/Sources]"}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"08  /  DREI MÖGLICHE UMFÄNGE","textShapes":14}
+{"kind":"textbox","id":"sh/lsn2h4fa","slide":9,"name":"text","text":"08  /  DREI MÖGLICHE UMFÄNGE","textPreview":"08  /  DREI MÖGLICHE UMFÄNGE","textChars":28,"textLines":1,"bbox":[64,50,420,22]}
+{"kind":"textbox","id":"sh/1cfmhgne","slide":9,"name":"text","text":"Der Content-Plan richtet sich nach dem Ziel.","textPreview":"Der Content-Plan richtet sich nach dem Ziel.","textChars":44,"textLines":1,"bbox":[64,104,800,108]}
+{"kind":"textbox","id":"sh/0b65obm9","slide":9,"name":"text","text":"Die finalen Mengen und Formate werden individuell auf Kanäle, Saison und Veröffentlichungsrhythmus abgestimmt.","textPreview":"Die finalen Mengen und Formate werden individuell auf Kanäle, Saison und Veröffentlichungsrhythmus abgestimmt.","textChars":110,"textLines":1,"bbox":[64,218,860,54]}
+{"kind":"shape","id":"sh/nex4jq5k","slide":9,"name":"rule","bbox":[64,296,330,2]}
+{"kind":"textbox","id":"sh/mdonql4z","slide":9,"name":"text","text":"FOTOGRAFIE","textPreview":"FOTOGRAFIE","textChars":10,"textLines":1,"bbox":[64,330,330,30]}
+{"kind":"textbox","id":"sh/9gzml0nq","slide":9,"name":"text","text":"Eine vielseitige Bildbibliothek","textPreview":"Eine vielseitige Bildbibliothek","textChars":31,"textLines":1,"bbox":[64,384,330,56]}
+{"kind":"textbox","id":"sh/ofq5svm5","slide":9,"name":"text","text":"Kaffee\nRaum & Details\nTeam & Service\nWebsite + Social","textPreview":"Kaffee | Raum & Details | Team & Service | Website + Social","textChars":53,"textLines":4,"bbox":[64,468,330,120]}
+{"kind":"shape","id":"sh/bih4na5w","slide":9,"name":"rule","bbox":[454,296,330,2]}
+{"kind":"textbox","id":"sh/ah8nu54b","slide":9,"name":"text","text":"VIDEO","textPreview":"VIDEO","textChars":5,"textLines":1,"bbox":[454,330,330,30]}
+{"kind":"textbox","id":"sh/oza1gfyh","slide":9,"name":"text","text":"Bewegte Geschichten mit Tempo","textPreview":"Bewegte Geschichten mit Tempo","textChars":29,"textLines":1,"bbox":[454,384,330,56]}
+{"kind":"textbox","id":"sh/p0ji9kf2","slide":9,"name":"text","text":"Reel / TikTok\nKurzformate\nProcess-Sequenzen\nSocial-first Schnitt","textPreview":"Reel / TikTok | Kurzformate | Process-Sequenzen | Social-first Schnitt","textChars":64,"textLines":4,"bbox":[454,468,330,120]}
+{"kind":"shape","id":"sh/2xsjepgb","slide":9,"name":"rule","bbox":[844,296,330,4]}
+{"kind":"textbox","id":"sh/3y107axw","slide":9,"name":"text","text":"HYBRID","textPreview":"HYBRID","textChars":6,"textLines":1,"bbox":[844,330,330,30]}
+{"kind":"textbox","id":"sh/cnu1kzyd","slide":9,"name":"text","text":"Ein konsistenter Auftritt","textPreview":"Ein konsistenter Auftritt","textChars":25,"textLines":1,"bbox":[844,384,330,56]}
+{"kind":"textbox","id":"sh/do3id4fy","slide":9,"name":"text","text":"Foto + Video\nGemeinsame Bildsprache\nMehr Touchpoints\nEffizienter Produktionstag","textPreview":"Foto + Video | Gemeinsame Bildsprache | Mehr Touchpoints | Effizienter Produktionstag","textChars":79,"textLines":4,"bbox":[844,468,330,120]}
+{"kind":"textbox","id":"sh/qlcjipgn","slide":9,"name":"text","text":"EMPFEHLUNG","textPreview":"EMPFEHLUNG","textChars":10,"textLines":1,"bbox":[844,620,190,20]}
+{"kind":"textbox","id":"sh/0ru1ozyp","slide":9,"name":"page-number","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1170,674,46,18]}
+{"kind":"image","id":"im/md47elwz","slide":9,"name":"","bbox":[1158,608,58,58]}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":"[Sources]\n- Authentic Zauberwald Visuals logo and visual system inherited from the source deck.\n[/Sources]"}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"DER NÄCHSTE SCHRITT","textShapes":5}
+{"kind":"textbox","id":"sh/725onyl4","slide":10,"name":"text","text":"DER NÄCHSTE SCHRITT","textPreview":"DER NÄCHSTE SCHRITT","textChars":19,"textLines":1,"bbox":[64,62,320,22]}
+{"kind":"textbox","id":"sh/xc3mho32","slide":10,"name":"text","text":"Aus dem Konzept wird\neine Bildwelt, die zu Ihrem Café\noder Coffee Spot passt.","textPreview":"Aus dem Konzept wird | eine Bildwelt, die zu Ihrem Café | oder Coffee Spot passt.","textChars":77,"textLines":3,"bbox":[64,158,940,206]}
+{"kind":"shape","id":"sh/cbu58j2h","slide":10,"name":"rule","bbox":[64,382,90,4]}
+{"kind":"textbox","id":"sh/zelojyl8","slide":10,"name":"text","text":"Im Gespräch definieren wir Ziel, Kanäle, Motive und Produktionsumfang. Daraus entsteht ein konkreter Shooting- und Veröffentlichungsplan.","textPreview":"Im Gespräch definieren wir Ziel, Kanäle, Motive und Produktionsumfang. Daraus entsteht ein konkreter Shooting- und Veröffentlichungsplan.","textChars":137,"textLines":1,"bbox":[64,416,680,84]}
+{"kind":"textbox","id":"sh/ydcnatkn","slide":10,"name":"text","text":"zauberwald-visuals.de","textPreview":"zauberwald-visuals.de","textChars":21,"textLines":1,"bbox":[64,586,420,34]}
+{"kind":"textbox","id":"sh/l036l83y","slide":10,"name":"text","text":"FOTOGRAFIE  /  VIDEO  /  HYBRID","textPreview":"FOTOGRAFIE  /  VIDEO  /  HYBRID","textChars":31,"textLines":1,"bbox":[64,632,390,22]}
+{"kind":"image","id":"im/fm9sbalk","slide":10,"name":"","bbox":[1158,608,58,58]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":"[Sources]\n- Authentic Zauberwald Visuals logo and visual system inherited from the source deck.\n[/Sources]"}
